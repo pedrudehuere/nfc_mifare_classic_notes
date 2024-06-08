@@ -1,10 +1,29 @@
-# Laundry cards
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-My laundry cards are MIFARE Classic 1K cards
+# Hacking my laundry cards
+
+Here I describe how I hacked my laundry card, the resulting software can be found here:\
+[https://github.com/pedrudehuere/laundry\_card\_topup](https://github.com/pedrudehuere/laundry\_card\_topup)
+
+## Hardware setup
+
+TODO
 
 ## Read the card's content
 
-Fortunately MIFARE Classic cards use the [Crypto-1](https://en.wikipedia.org/wiki/Crypto-1) encryption which has been broken in 2009, there are several tools which allow to extract the secret keys from those cards.
+My laundry card is a MIFARE Classic 1K, fortunately MIFARE Classic cards use the [Crypto-1](https://en.wikipedia.org/wiki/Crypto-1) encryption which has been broken in 2009, there are several tools which allow to extract the secret keys from those cards.
 
 The repository of [nfc-tools github project](https://github.com/nfc-tools) contains a lot of interesting things
 
