@@ -1,5 +1,5 @@
-# Acronyms
+# Introduction
 
+These are some notes about MIFARE Classic NFC cards and how I hacked my laundry cards.
 
-
-<table><thead><tr><th width="92.5"></th><th></th></tr></thead><tbody><tr><td>PCD</td><td>Proximity Coupling Device, the card reader</td></tr><tr><td>PICC</td><td>Proximity Integrated Circuit Card, the card</td></tr><tr><td>RFU</td><td>Reserved for Future Use</td></tr></tbody></table>
+Check out the amazing nfc-tools for libraries and tools: [https://github.com/nfc-tools](https://github.com/nfc-tools)

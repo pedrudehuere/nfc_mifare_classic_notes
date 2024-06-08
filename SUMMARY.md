@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Acronyms](README.md)
-* [MIFARE](mifare/README.md)
-  * [MIFARE Classic](mifare/mifare-classic.md)
-* [Laundry cards](laundry-cards.md)
+* [Introduction](README.md)
+* [Acronyms](<README (1).md>)
+* [MIFARE](mifare.md)
+* [MIFARE Classic](mifare-classic.md)
+* [Hacking my laundry cards](hacking-my-laundry-cards.md)
